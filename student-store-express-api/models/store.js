@@ -9,6 +9,13 @@ class Store {
         const products = storage.get("products").value();
         return products;
     }
+
+    //From storage, get the products array, find the element with the passed productID, and retrieve the value.
+    //Return the product.
+    static async fetchProductById(productId) {
+        const product = storage.get("products").find({id: Number(productId)}).value()
+        return product;
+    }
 }
 
 module.exports = Store;
