@@ -23,7 +23,7 @@ webkitallowfullscreen mozallowfullscreen allowfullscreen
 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
 </iframe>
 <img src="https://imgur.com/a/ALaDtK4"/>
-![Alt text](https://imgur.com/a/ALaDtK4)
+![Alt text](https://i.imgur.com/aV2ZzZA.mp4)
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
