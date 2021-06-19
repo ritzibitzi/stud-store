@@ -1,8 +1,8 @@
-## Week 1 Assignment: Flixster
+## Week 2 Assignment: Study Store
 
 Submitted by: **Maritza Padilla**
 
-Estimated time spent: **19** hours spent in total
+Estimated time spent: **20** hours spent in total
 
 ### Application Features
 
