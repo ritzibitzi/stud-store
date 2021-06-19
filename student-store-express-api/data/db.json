@@ -2,84 +2,84 @@
   "products": [
     {
       "id": 1,
-      "name": "Rice Krispies",
-      "category": "food",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/RKTsquares.jpg",
-      "source": "https://en.wikipedia.org/wiki/Rice_Krispies_Treats",
-      "description": "Delicious corn-based rice grains melted together with marshmallows into a square-like shape.",
-      "price": 0.99
+      "name": "Zebra Midliners",
+      "category": "stationary",
+      "image": "https://m.media-amazon.com/images/I/91Xs2Uf4buL._AC_SS450_.jpg",
+      "source": "https://www.amazon.com/Zebra-Mildliner-Highlighter-Assorted-10-Count/dp/B0752PW6ND",
+      "description": "Wow! So many colors! Be careful not to go overboard with this set of quality midliners. Or do, we don't care.",
+      "price": 16.99
     },
     {
       "id": 2,
-      "name": "Flamin Hot Cheetos",
-      "category": "food",
-      "image": "https://static.openfoodfacts.org/images/products/896/400/009/0879/front_en.14.full.jpg",
-      "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
-      "description": "No one knows what's in the powder that covers these snacks, but wow is it amazing!",
-      "price": 1.5
+      "name": "Moleskin Notebook",
+      "category": "stationary",
+      "image": "https://www.napabookmine.com/sites/napabookmine.com/files/moleskin-turquoise.JPG",
+      "source": "https://www.napabookmine.com/moleskine-soft-cover-ruled-notebook-turquoise",
+      "description": "Keep your notes and deepest secrets safe in this premium notebook! Wow! So cool!",
+      "price": 13.95
     },
     {
       "id": 3,
-      "name": "Flamin Hot Cheetos",
-      "category": "food",
-      "image": "https://static.openfoodfacts.org/images/products/896/400/009/0879/front_en.14.full.jpg",
-      "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
-      "description": "No one knows what's in the powder that covers these snacks, but wow is it amazing!",
-      "price": 1.5
+      "name": "White Out",
+      "category": "stationary",
+      "image": "https://m.media-amazon.com/images/I/811n3uekjTL._AC_SL1500_.jpg",
+      "source": "https://www.amazon.com/Bic-Wite-Out-Quick-Correction-Fluid/dp/B0041IJ4NG",
+      "description": "Forget about your past mistakes with the help of this chemical concoction!",
+      "price": 6.67
     },
     {
       "id": 4,
-      "name": "Rice Krispies",
-      "category": "food",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/RKTsquares.jpg",
-      "source": "https://en.wikipedia.org/wiki/Rice_Krispies_Treats",
-      "description": "Delicious corn-based rice grains melted together with marshmallows into a square-like shape.",
-      "price": 0.99
+      "name": "Slug Sweater",
+      "category": "clothes",
+      "image": "https://slugstore.ucsc.edu/webitemimages/721/a3227.jpg",
+      "source": "https://slugstore.ucsc.edu/ePOS?form=shared3/gm/merch.html&item_number=a3227&cat=434&store=721&design=721",
+      "description": "Wear your slug pride on your chest, and make everyone feel bad for not being you!",
+      "price": 34.99
     },
     {
       "id": 5,
-      "name": "Flamin Hot Cheetos",
-      "category": "food",
-      "image": "https://static.openfoodfacts.org/images/products/896/400/009/0879/front_en.14.full.jpg",
+      "name": "Slug Socks",
+      "category": "clothes",
+      "image": "https://ih1.redbubble.net/image.908118405.8592/ur,socks_size_comparison_medium,tall_portrait,750x1000-bg,f8f8f8.1.jpg",
       "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
-      "description": "No one knows what's in the powder that covers these snacks, but wow is it amazing!",
-      "price": 1.5
+      "description": "The only socially acceptable slug to step on (Or into?). Well in any case, they're 100% Slug AND Cotton!",
+      "price": 18
     },
     {
       "id": 6,
-      "name": "Flamin Hot Cheetos",
-      "category": "food",
-      "image": "https://static.openfoodfacts.org/images/products/896/400/009/0879/front_en.14.full.jpg",
-      "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
-      "description": "No one knows what's in the powder that covers these snacks, but wow is it amazing!",
-      "price": 1.5
+      "name": "32 Oz Hydroflask",
+      "category": "self-care",
+      "image": "https://www.hydroflask.com/media/catalog/product/cache/9177cfe059281270017bc29637323e6d/w/3/w32bts-carnation.jpg",
+      "source": "https://www.hydroflask.com/32-oz-wide-mouth?color=carnation",
+      "description": "Never go thirsty or weapon-less again with this handy triple insulated hydroflask!",
+      "price": 39.99
     },
     {
       "id": 7,
-      "name": "Rice Krispies",
-      "category": "food",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/RKTsquares.jpg",
-      "source": "https://en.wikipedia.org/wiki/Rice_Krispies_Treats",
-      "description": "Delicious corn-based rice grains melted together with marshmallows into a square-like shape.",
-      "price": 0.99
+      "name": "Automatic Pill Dispenser",
+      "category": "self-care",
+      "image": "https://www.lifeline.philips.com/content/dam/PLL/PLL-B2C/Products/MedicationDispensing/Hardware/xMedical-dispenser.png.pagespeed.ic.1-frw5BoYk.png",
+      "source": "https://www.lifeline.philips.com/business/medicationdispensing",
+      "description": "Why do we need to remember anything anymore with the help of automation?",
+      "price": 79.99
     },
     {
       "id": 8,
-      "name": "Flamin Hot Cheetos",
-      "category": "food",
-      "image": "https://static.openfoodfacts.org/images/products/896/400/009/0879/front_en.14.full.jpg",
-      "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
-      "description": "No one knows what's in the powder that covers these snacks, but wow is it amazing!",
-      "price": 1.5
+      "name": "BBQ Corn Nuts",
+      "category": "snacks",
+      "image": "https://cdn11.bigcommerce.com/s-du7jbb86da/images/stencil/1280x1280/products/3189/9185/corn_nuts_bbq_4_oz__26523.1548189234.jpg?c=2",
+      "source": "https://rocketdsd.com/corn-nuts-bbq-4-0-oz-1-count/",
+      "description": "Delicious corn-based nuts.",
+      "price": 0.99
     },
     {
       "id": 9,
-      "name": "Flamin Hot Cheetos",
-      "category": "food",
-      "image": "https://static.openfoodfacts.org/images/products/896/400/009/0879/front_en.14.full.jpg",
-      "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
-      "description": "No one knows what's in the powder that covers these snacks, but wow is it amazing!",
-      "price": 1.5
+      "name": "Stumptown Cold Brew Coffee",
+      "category": "snacks",
+      "image": "https://www.kroger.com/product/images/large/front/0085518600686",
+      "source": "https://www.kingsoopers.com/p/stumptown-coffee-cold-brew-chocolate-coffee-with-cream-sugar/0085518600686",
+      "description": "This coffee's really good. But don't drink on an empty stomach, or you'll be bouncing your leg all day!",
+      "price": 2.5
     }
   ],
   "transfers": [],
