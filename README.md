@@ -15,10 +15,10 @@ Estimated time spent: **19** hours spent in total
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
+`TODO://` Add the embedded URL code to your animated app walkthrough below, `https://imgur.com/a/ALaDtK4`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
 <iframe 
-src="https://www.loom.com/share/f2ced15050a34dfaa8272dd86d77138e" frameborder="0" 
+src="https://imgur.com/a/ALaDtK4" frameborder="0" 
 webkitallowfullscreen mozallowfullscreen allowfullscreen 
 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
 </iframe>
